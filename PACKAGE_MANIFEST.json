@@ -1,0 +1,41 @@
+{
+  "stage_id": "1013R_R223W_REVIEW_ONLY_PILOT_GATE_SPEC",
+  "status": "gate_spec_only",
+  "decision": "PASS_CONTINUE_TO_R223X_REVIEW_ONLY_PILOT_GATE_FIXTURE",
+  "source_stages": [
+    "1013R_R223W_P0_ARTIFACT_LINEAGE_AND_SOURCE_OF_TRUTH_CONTRACT"
+  ],
+  "files": [
+    "R223W_review_only_pilot_gate_spec.md",
+    "R223W_teacher_draft_primary_reading_shell_spec.md",
+    "R223W_canonical_source_reference_contract.json",
+    "R223W_review_ledger_collapsed_summary_spec.md",
+    "R223W_v0_1_v0_2_difference_summary_spec.md",
+    "R223W_component_trigger_metadata_only_spec.md",
+    "R223W_safety_banner_and_flags_contract.json",
+    "R223W_acceptance_and_hold_conditions.md",
+    "R223W_decision_report.md",
+    "README_FOR_GPT_REVIEW.md",
+    "validate_1013R_R223W_review_only_pilot_gate_spec.py",
+    "validate_1013R_R223W_review_only_pilot_gate_spec_result.json"
+  ],
+  "boundaries": {
+    "new_visual_page_created": false,
+    "new_teacher_draft_created": false,
+    "teacher_body_rewritten": false,
+    "schema_v0_2_published": false,
+    "formal_ui": false,
+    "r97b_modified": false,
+    "formal_route_added": false,
+    "frontend_backend_modified": false,
+    "runtime_connected": false,
+    "provider_model_connected": false,
+    "prompt_modified": false,
+    "database_written": false,
+    "lesson_body_written": false,
+    "r222d_component_library_modified": false,
+    "formal_apply": false
+  },
+  "next_allowed": "1013R_R223X_REVIEW_ONLY_PILOT_GATE_FIXTURE"
+}
+
