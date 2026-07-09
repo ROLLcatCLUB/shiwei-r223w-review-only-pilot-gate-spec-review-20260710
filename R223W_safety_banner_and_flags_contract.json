@@ -1,0 +1,35 @@
+{
+  "stage_id": "1013R_R223W_REVIEW_ONLY_PILOT_GATE_SPEC",
+  "status": "gate_spec_only",
+  "required_banner": "Review-only pilot gate. v0.2 candidate is not published. No lesson body writeback.",
+  "safety_flags": {
+    "schema_v0_2_published": false,
+    "review_only_pilot_gate": true,
+    "fixture_only": true,
+    "non_persistent_preview": true,
+    "teacher_confirmed": false,
+    "formal_apply_allowed": false,
+    "lesson_body_writeback": false,
+    "may_create_teacher_draft": false,
+    "may_rewrite_teacher_body": false,
+    "r97b_modified": false,
+    "formal_route_added": false,
+    "frontend_backend_modified": false,
+    "runtime_connected": false,
+    "provider_model_connected": false,
+    "prompt_modified": false,
+    "database_written": false,
+    "r222d_component_library_modified": false,
+    "formal_apply": false
+  },
+  "blocked_controls": {
+    "publish": true,
+    "save": true,
+    "apply": true,
+    "run_model": true,
+    "writeback": true,
+    "execute_component": true,
+    "create_teacher_draft": true
+  }
+}
+
