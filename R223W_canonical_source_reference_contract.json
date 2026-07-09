@@ -1,0 +1,36 @@
+{
+  "stage_id": "1013R_R223W_REVIEW_ONLY_PILOT_GATE_SPEC",
+  "status": "canonical_source_reference_contract",
+  "may_create_teacher_draft": false,
+  "may_rewrite_teacher_body": false,
+  "canonical_teacher_manuscripts": [
+    {
+      "sample_id": "M_stationery",
+      "title": "我为文具代言 第三阶段 智造·新朋友",
+      "canonical_file": "R223M_P4_P1_teacher_readable_process_v6.html",
+      "canonical_local_path": "D:/Documents/SmartEdu/xiaobei-core/outputs/PREP_ROOM_RENDER_CANVAS_DEEPEN_V1/1013R_R223M_P4_P1_NOTE_WEIGHT_REDUCTION_AND_MARGINIZATION/R223M_P4_P1_teacher_readable_process_v6.html",
+      "usage": "link_or_readonly_reference_only"
+    },
+    {
+      "sample_id": "N_paper_print",
+      "title": "有趣的纸印",
+      "canonical_file": "R223N_P3_P1_teacher_manuscript_draft_v5.html",
+      "canonical_local_path": "D:/Documents/SmartEdu/xiaobei-core/outputs/PREP_ROOM_RENDER_CANVAS_DEEPEN_V1/1013R_R223N_P3_P1_LIGHT_SAMPLE_FLAVOR_AND_LAYOUT_POLISH/R223N_P3_P1_teacher_manuscript_draft_v5.html",
+      "usage": "link_or_readonly_reference_only"
+    },
+    {
+      "sample_id": "O_color_collision",
+      "title": "色彩的碰撞",
+      "canonical_file": "R223O_P1_teacher_manuscript_draft_v2.html",
+      "canonical_local_path": "D:/Documents/SmartEdu/xiaobei-core/outputs/PREP_ROOM_RENDER_CANVAS_DEEPEN_V1/1013R_R223O_P1_COLOR_MANUSCRIPT_STRUCTURE_RECOVERY/R223O_P1_teacher_manuscript_draft_v2.html",
+      "usage": "link_or_readonly_reference_only"
+    }
+  ],
+  "forbidden_outputs": [
+    "R223W_teacher_draft",
+    "R223W_teacher_manuscript",
+    "R223W_final_teacher_page",
+    "any R223W teacher draft HTML file",
+    "any R223W teacher manuscript HTML file"
+  ]
+}
